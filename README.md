@@ -3,7 +3,7 @@ Created an interactive Covid-19 global vaccination tracker using Tableau, delive
 
 ## Tableau Dashboard Preview
 
-![Dashboard Preview](Covid Vaccine Tracker.png)
+![Dashboard Preview](Tracker.png)
 
 ## Features
 
