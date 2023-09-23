@@ -1,37 +1,37 @@
 # Covid-19-Vaccine-Tracker
 Created an interactive Covid-19 global vaccination tracker using Tableau, delivering real-time insights into global vaccination progress. Developed an accessible dashboard for users to explore vaccination statistics.
+
 ## Tableau Dashboard Preview
 
 ![Dashboard Preview](Covid Vaccine Tracker.png)
 
-# Key Features
-` Map View` : The map provides a visual representation of the geographic spread of house sales within King County. You have the flexibility to zoom in or out and interact with individual data points for additional information.
+## Features
 
-`Price Distribution`: This histogram illustrates the breakdown of house sale prices within the dataset, enabling you to gain insights into the range of prices at which houses were sold.
+- **Real-Time Data**: The dashboard is continuously updated to provide the latest information on Covid-19 vaccination progress worldwide.
 
-`Bedrooms vs. Bathrooms`:  Investigate the correlation between the number of bedrooms and bathrooms in homes. This scatter plot serves as a tool for identifying patterns and relationships.
+- **Interactive Visualizations**: Users can interact with various visualizations to explore vaccination trends, vaccination rates, and other relevant data.
 
-`Year Built`: Observe how the distribution of house sales fluctuates based on the year of construction for the respective properties.
+- **Global Coverage**: The dashboard covers vaccination statistics for countries and regions around the world, allowing users to compare vaccination efforts on a global scale.
 
-`Property Grade`: This bar chart presents the distribution of property grades assigned to houses featured in the dataset.
+- **Accessibility**: We have designed the dashboard with user accessibility in mind, ensuring that it can be easily used by a wide range of individuals.
 
 ## How to Use
 
-To interact with the dashboard, follow these steps:
+1. **Access the Dashboard**:[link-to-dashboard](https://public.tableau.com/views/Covid-19VaccinationDashboard_16948746354300/CovidVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-1. **Access the Dashboard**: [Link to Tableau Dashboard]([link-to-dashboard](https://public.tableau.com/views/KingCountyHouseSales_16954324751590/KingCountyHouseSales?:language=en-US&:display_count=n&:origin=viz_share_link))
+2. **Explore the Data**: Use the interactive features within the dashboard to access detailed information about Covid-19 vaccination efforts worldwide.
 
-2. **Explore the Data**: Use the interactive features within the dashboard to analyze various aspects of house sales in King County.
+3. **Customize Your View**: Tailor your view by selecting filters, adjusting parameters, and exploring different visualizations to gain valuable insights.
 
-3. **Customize Your View**: Tailor your view by selecting filters, adjusting parameters, and exploring different visualizations.
+## Contributing
 
-## Feedback and Contributions
-
-I welcome feedback, bug reports, and contributions to enhance this project. If you have any suggestions or would like to contribute to the development of this dashboard, please follow these steps:
+I welcome contributions to improve this project and expand its capabilities. If you have ideas for enhancements, spot any issues, or want to contribute in any way, please follow these steps:
 
 1. **Fork this Repository**: Click the "Fork" button to create your copy of this repository.
 
-2. **Make Changes**: Make your desired changes or improvements to the dashboard.
+2. **Make Changes**: Make your desired changes or improvements to the dashboard or its underlying code.
 
-3. **Submit a Pull Request**: After making changes in your forked repository, submit a pull request to have your modifications reviewed and merged.
+3. **Submit a Pull Request**: After making changes in your forked repository, submit a pull request to have your modifications reviewed and potentially merged into the main project.
+
+
 
